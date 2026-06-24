@@ -1,6 +1,4 @@
-# Vinh aka
-Vinh dz:163.227.231.32:14444:0:0
-# Vinh abcd
-Vinh vip:163.227.231.32:14444:0:0
-# Vinh dddd
-Vinh:163.227.231.32:14444:0:0
+# Nso Free
+Nso free:163.227.231.32:14444:0:0
+# Local Host
+Local host:163.227.231.32:14444:0:0
