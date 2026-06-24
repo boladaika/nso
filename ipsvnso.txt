@@ -1,4 +1,4 @@
 # Nso Free
 Nso Free :163.227.231.32:14444:0:0
 # Local Host
-Local host:163.227.231.32:14444:0:0
+Nguyễn Thế Vinh:127.0.0.1:14444:0:0
