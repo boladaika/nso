@@ -1,5 +1,5 @@
 # Nso Free
-Nso RAVEN :163.227.231.32:14444:0:0
+Nso RAVEN:163.227.231.32:14444:0:0
 # Local Host
 Nguyễn Thế Vinh :163.227.231.32:14444:0:0
 # Máy chủ 3
