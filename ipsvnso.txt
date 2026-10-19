@@ -1,6 +1,4 @@
 # Nso Free
-Nso RAVEN:163.227.231.32:14444:0:0
-# Local Host
-Nguyễn Thế Vinh :163.227.231.32:14444:0:0
+Kỷ Nguyên Nso:160.191.87.200:14444:0:0
 # Máy chủ 3
 Local Host :127.0.0.1:14444:0:0
